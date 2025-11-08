@@ -1,7 +1,8 @@
-# 🤖 AIvibe HQ  
+# 🤖 AI_vibe 
+
 ### Building Intelligent, Interactive & Immersive Experiences 🚀  
 
-**AI Engineer | Full-Stack Developer | 3D Web & Generative AI Enthusiast**
+**AI Engineer | Prompt Enginer | 3D Web & Generative AI Enthusiast| Full-Stack Developer |**
 
 ---
 
