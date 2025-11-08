@@ -1,109 +1,82 @@
-<!-- 🔥 HEADER BANNER -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=🤖+Welcome+to+AI_vibe;Building+Intelligent+%26+Immersive+Experiences;By+Sachin+Kallappa+Hebbale+🚀" alt="Typing SVG" />
-</p>
+<!-- 🌟 AIvibe - README by Sachin Kallappa Hebbale -->
+
+<h1 align="center">🤖 AI_vibe</h1>
+<h3 align="center">Building Intelligent, Interactive & Immersive Experiences 🚀</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=AI_vibe%20HQ&fontAlign=50&fontAlignY=40&color=gradient&fontSize=55&desc=AI%20Engineer%20|%20Prompt%20Engineer%20|%20Full%20Stack%20Developer%20|%203D%20Web%20Creator&descAlignY=65&animation=twinkling"/>
-</p>
-
----
-
-<h3 align="center">✨ Crafting Systems that Think, Speak, and Evolve ✨</h3>
-
----
-
-## 🧬 About Me  
-
-👋 Hey there! I’m **Sachin Kallappa Hebbale**, founder of **AI_vibe**, where creativity meets intelligence.  
-I design and build **AI-powered, voice-enabled, and immersive 3D web experiences** — merging code, cognition, and creativity into one experience.  
-
-💡 My focus is on bridging **Artificial Intelligence**, **Generative AI**, and **Interactive Web** systems — to create technology that feels alive.  
-
----
-
-## 🚀 What I Build  
-
-| 🧩 Domain | 💥 Key Focus |
-|-----------|-------------|
-| 🎙️ **Voice-based AI Systems** | Multilingual Voice Login using Flask + MongoDB + JS |
-| 💻 **Full-Stack Web Apps** | React, Node.js, Express, Django, Flask |
-| ☁️ **Cloud & DevOps** | Firebase, AWS, MongoDB Atlas |
-| 🧠 **Machine Learning & NLP** | Classification, Regression, Chatbots, Text Intelligence |
-| 🕹️ **3D & Immersive Web** | 3D RCB Player Showcase with React + Three.js |
-| 🤖 **Generative AI** | LLMs, Prompt Engineering, and AI Automation Tools |
-
----
-
-## 🌟 Featured Projects  
-
-| 🚀 Project | 🧠 Description | 🧰 Tech Stack |
-|------------|----------------|----------------|
-| 🎙️ **Voice-Based Multilingual Banking System** | AI-powered voice login, language detection, and PIN auth | JS • Flask • MongoDB • Speech API |
-| 💬 **AI Chatbot for IT Act India** | NLP model that understands legal queries | Python • Flask • NLTK |
-| 🧾 **Complaint Management System** | GPS + cloud-based issue tracker with dashboards | Flask • Firebase • Geolocation API |
-| 🏏 **RCB 3D Showcase Website** | Dynamic 3D animations for players | React • Three.js • Tailwind |
-| 🧮 **ML Lab Optimizer (BCSL60)** | Shorter but accurate ML code solutions | Python • Scikit-Learn |
-
----
-
-## 🧠 Skills & Tools  
-
-<div align="center">
-
-| Category | Technologies |
-|-----------|---------------|
-| 🧰 **Languages** | Python, JavaScript, HTML5, CSS3 |
-| ⚙️ **Frameworks** | ReactJS, NodeJS, Express, Flask, Django |
-| 🗄️ **Databases** | MongoDB Atlas, Firebase, MySQL |
-| 🎨 **UI / UX Design** | TailwindCSS, Bootstrap, Figma, Photoshop, Adobe XD |
-| 🧬 **AI / ML Tools** | NumPy, Pandas, Scikit-Learn, NLTK, TensorFlow |
-| ☁️ **Cloud Platforms** | AWS, Firebase, MongoDB Atlas |
-| 🕹️ **3D Web** | Three.js, React Three Fiber |
-
-</div>
-
----
-
-## 🎓 Mentor & Educator  
-
-👨‍🏫 Guided students and professionals in **AI, Machine Learning, and Full-Stack Web Development**.  
-💬 Simplified complex ML algorithms into intuitive lessons.  
-🧠 Helped learners build **AI + Web** projects from scratch.  
-🎥 Sharing knowledge through **YouTube channel [AIvibe](https://www.youtube.com/@Rcbeditz09)**  
-
----
-
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sachinhebbale&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=sachinhebbale&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sachinhebbale&theme=tokyonight" />
+  <b>AI Engineer | Prompt Engineer | 3D Web & Generative AI Enthusiast | Full-Stack Developer</b>
 </p>
 
 ---
 
-## 💫 Let's Connect  
+### 🌟 “Transforming Ideas into Intelligent Digital Realities.”
 
+---
+
+## 🌍 About Me  
+Hi, I’m **Sachin Kallappa Hebbale**, a passionate developer who blends **AI, creativity, and technology** to build next-gen digital experiences.  
+From voice-based multilingual banking systems 🗣️ to 3D player showcases 🕹️ — I create products that **think, speak, and feel alive**.
+
+I believe in merging **intelligence, design, and interaction** — because true innovation happens where technology becomes human.
+
+---
+
+## ⚡ What I Do  
+- 🎙️ **Voice-Based AI Systems** — Multilingual Voice Login using Flask + MongoDB  
+- 💻 **Full-Stack Web Development** — React, Node.js, Flask, Django  
+- ☁️ **Cloud & Database Integration** — Firebase, AWS, MongoDB Atlas  
+- 🧠 **Machine Learning Projects** — Classification, NLP, Computer Vision  
+- 🕹️ **3D & Immersive Web** — React Three Fiber + Three.js  
+- 🤖 **Generative AI & Automation** — LLMs, AI-driven workflows, content automation  
+
+---
+
+## 🚀 Highlight Projects  
+| 💡 Project | 📘 Description | 🧩 Tech Stack |
+|-------------|----------------|---------------|
+| 🎙️ **Voice-Based Multilingual Banking System** | Voice login, language selection, and secure PIN verification | Flask, MongoDB, JS, Speech API |
+| 💬 **AI Chatbot for IT Act** | NLP-based chatbot for Indian Law information | Python, Flask, NLTK |
+| 🧾 **Complaint Management System** | Real-time issue reporting with GPS & dashboard | Flask, Firebase, Geolocation API |
+| 🏏 **3D RCB Website** | 3D Player Showcase with animations and info cards | React, Three.js, Tailwind |
+| 📚 **ML Lab Optimizer** | Short, efficient ML lab solutions (BCSL60) | Python, Scikit-Learn |
+
+---
+
+## 🧩 Skills  
+**Languages:** Python, JavaScript, HTML5, CSS3  
+**Frameworks:** ReactJS, NodeJS, Flask, Django, Express  
+**Databases:** MongoDB Atlas, Firebase, MySQL  
+**Design:** TailwindCSS, Figma, Photoshop, Adobe XD  
+**AI/ML:** NumPy, Pandas, Scikit-Learn, NLTK, TensorFlow (Basics)  
+**Cloud:** AWS, Firebase, MongoDB Atlas  
+**3D Web:** Three.js, React Three Fiber  
+
+---
+
+## 🧑‍🏫 Mentor & Educator  
+🎯 Helping students and beginners understand **AI, ML, and Full-Stack Development**  
+💬 Simplifying complex AI topics into real-world examples  
+🧠 Creator of voice, AI, and immersive tech projects that teach & inspire  
+
+---
+
+## 📊 GitHub Stats  
 <p align="center">
-  <a href="mailto:sachinhebbale46@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sachin-kallappa-hebbale-9557a1382"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@Rcbeditz09"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://www.instagram.com/Sachin_hebbale09"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=sachinhebbale&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinhebbale&layout=compact&theme=radical" height="150" />
 </p>
 
 ---
 
-<p align="center">
-  <i>“The future belongs to those who can blend <b>creativity, intelligence, and interaction</b> into code.”</i><br>
-  — <b>Sachin Kallappa Hebbale | AI_vibe</b> 🚀
-</p>
+## 🔗 Connect with Me  
+🌐 **Portfolio:** Coming Soon  
+📧 **Email:** [sachinhebbale46@gmail.com](mailto:sachinhebbale46@gmail.com)  
+🎥 **YouTube:** [AIvibe – @Rcbeditz09](https://www.youtube.com/@Rcbeditz09)  
+💼 **LinkedIn:** [sachin-kallappa-hebbale-9557a1382](https://www.linkedin.com/in/sachin-kallappa-hebbale-9557a1382)  
+📸 **Instagram:** [@sachin_hebbale09](https://www.instagram.com/sachin_hebbale09)
 
-<!-- FOOTER BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient"/>
-</p>
+---
+
+<h3 align="center">✨ “The goal is to build systems that don’t just respond — they understand, speak, and evolve.” ✨</h3>
+
+<p align="center">— <b>Sachin Hebbale | AI_vibe</b></p>
